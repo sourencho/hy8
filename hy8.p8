@@ -34,8 +34,8 @@ char_width2   = 6
 char_height   = 8
 
 -- draw offset
-char_offset_x = 10
-char_offset_y = 10
+char_offset_x = 0
+char_offset_y = 0
 
 function _init()
 	memset(0x5600,0,0x800)
