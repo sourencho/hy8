@@ -8,7 +8,7 @@ Original font [hypix](https://fonter.am/en/fonts/hypix) by Davit Saroyan.
 
 ## use
 
-See [hy8_demo.p8](demo.p8)
+See [hy8_demo.p8](hy8_demo.p8)
 
 ## modify
 
